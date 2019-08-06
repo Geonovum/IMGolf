@@ -1,2 +1,2 @@
 # IMGolf
-Test informatiemodel Geonovum
+Alleen in gebruik voor testdoeleinden
